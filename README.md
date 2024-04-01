@@ -22,11 +22,12 @@ The Chat Application UI is designed as a foundational user interface that can be
 Here are a few screenshots and GIFs showing the UI in action:
 
 - Main Chat Interface:
-![Main Chat Interface] (https://imgur.com/a/LPYqnrH)
-- Responsive Design:
-![Responsive Design](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JjbG1ubXM3amRvZDdubTFhenV2N2NvY204bXMyYzMwM2dqMWFkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2t0EylTwGIOYxynPYR/giphy.gif)
+<img src="https://i.imgur.com/EH2HPP3.jpg" width="500" height="300">
 
-## Technologies Used ☕️ 🐍 ⚛️
+- Responsive Design:
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JjbG1ubXM3amRvZDdubTFhenV2N2NvY204bXMyYzMwM2dqMWFkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2t0EylTwGIOYxynPYR/giphy.gif" width="500" height="300">
+
+## Technologies Used ☕️  ⚛️
 
 This project utilizes the following technologies:
 
@@ -41,7 +42,7 @@ To set up and run this project locally, follow these simple steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/ori98/msg-ui.git
    ```
 2. Install NPM packages:
    ```sh
@@ -71,9 +72,3 @@ We welcome contributions from the community. To contribute:
 ## License ©️
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact 📬
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/your_username/your_project](https://github.com/your_username/your_project)
