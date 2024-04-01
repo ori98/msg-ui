@@ -21,8 +21,10 @@ The Chat Application UI is designed as a foundational user interface that can be
 
 Here are a few screenshots and GIFs showing the UI in action:
 
-- Main Chat Interface: ![Main Chat Interface](https://imgur.com/a/LPYqnrH)
-- Responsive Design: ![Responsive Design](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JjbG1ubXM3amRvZDdubTFhenV2N2NvY204bXMyYzMwM2dqMWFkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2t0EylTwGIOYxynPYR/giphy.gif)
+- Main Chat Interface:
+![Main Chat Interface] (https://imgur.com/a/LPYqnrH)
+- Responsive Design:
+![Responsive Design](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JjbG1ubXM3amRvZDdubTFhenV2N2NvY204bXMyYzMwM2dqMWFkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2t0EylTwGIOYxynPYR/giphy.gif)
 
 ## Technologies Used ☕️ 🐍 ⚛️
 
