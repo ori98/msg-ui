@@ -1,17 +1,17 @@
+## Table of Contents 📑
+
+- [Welcome](#chat-application-ui-)
+- [About The Project](#about-the-project-)
+- [Screenshots](#screenshots-)
+- [Technologies Used](#technologies-used-)
+- [Setup / Installation](#setup--installation-)
+- [Features](#features-)
+- [Contributing](#contributing-)
+- [License](#license-)
+
 # Chat Application UI 💬
 
 Welcome to our Chat Application UI - a sleek, responsive, and versatile chat user interface built with React, HTML, CSS, and Bootstrap. This project serves as the perfect skeleton for developers looking to create any major chat application with ease and flexibility.
-
-## Table of Contents 📑
-
-- [About The Project](#about-the-project)
-- [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [Setup / Installation](#setup--installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## About The Project 📚
 
